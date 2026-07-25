@@ -1,0 +1,12 @@
+key="SCRUM-2"
+[ "key","summary","description","status","reporter","details"]
+=========================================================
+Note:
+Important
+
+Text input component is not available in the current version of Langflow 1.10.x.
+
+For the home assignments and other tasks, use chat input and output.
+===========================================================
+
+"Basic YmFidS5tYW5pY2thbUBpbmRzYWZyaS5jb206QVRBVFQzeEZmR0YwWkpielZiWUk1UkpFS01Vb1lZb0Vra293cFl1THpVRE0tSHJoWklvTWg4d3F0R3B5ZXFwYms0NXFQUUNHVDhKVWVfZ1ZNREM3SGktYXN0ejZpRlBNMlYwMktoMGJ1RWZoYkRoa09ISWpqNmd4X3FsLUxrbThFQXg2bVQzUExab05GQVFTZndCampjOU5RdlIwVXNnMDZHRG0xV3pPWHpaZXpNSXdZOHR0eWJZPUY4MkVCNkFE
