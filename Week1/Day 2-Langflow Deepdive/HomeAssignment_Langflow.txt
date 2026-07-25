@@ -1,0 +1,24 @@
+Home Assignment
+
+Task 1: User Story reviewer
+
+Steps:
+*Extract a User Story from Jira.
+*Pass the extracted User Story to your Langflow workflow.
+*review the usestories by giving the prompt to the LLM.
+*Copy the generated cURL command from Langflow.
+*Import or execute the same request in Postman.
+*Verify that the test cases generated through Postman match the output produced by Langflow.
+
+Task 2: File Text Extraction
+
+* Read File (PDF or supported file format) and extract its text using Langflow.
+* Copy the generated cURL command from Langflow.
+* Execute the same request in Postman and verify that the extracted text matches the Langflow output.
+
+Deliverables
+
+* Screenshot of the Langflow workflow execution.
+* Screenshot of the successful Postman response.
+
+Note:watch the recordings(last 20 minutes) for better understanding

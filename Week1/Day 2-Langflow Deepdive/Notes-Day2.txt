@@ -1,0 +1,57 @@
+Common mistakes
+1)Workflow url used is incorrect ,curl and copy your workflow as per steps (using the workflow in shared postman collection and giving your langflow key)
+2)In the query parameters disable stream=false
+3)Langflow Key is not set in the header
+=============================================================================================
+What is Langflow? And Documentation
+***********************************
+Reference Documents
+  https://docs.langflow.org/
+  https://docs.langflow.org/api-reference-api-examples
+  https://docs.langflow.org/concepts-publish
+  https://docs.langflow.org/api-keys-and-authentication
+  https://docs.langflow.org/api
+==============================================================================================
+Home Assignment
+
+Task 1: User Story reviewer
+
+Steps:
+*Extract a User Story from Jira.
+*Pass the extracted User Story to your Langflow workflow.
+*review the usestories by giving the prompt to the LLM.
+*Copy the generated cURL command from Langflow.
+*Import or execute the same request in Postman.
+*Verify that the test cases generated through Postman match the output produced by Langflow.
+
+Task 2: File Text Extraction
+
+* Read File (PDF or supported file format) and extract its text using Langflow.
+* Copy the generated cURL command from Langflow.
+* Execute the same request in Postman and verify that the extracted text matches the Langflow output.
+
+Deliverables
+
+* Screenshot of the Langflow workflow execution.
+* Screenshot of the successful Postman response.
+
+Note:watch the recordings(last 20 minutes).
+
+Note
+1) For both the workflow parameters like model ,prompt template file should be customized and dynamic
+
+2) For Text extraction from file pdf work flow 
+You will be having 2 API  request 
+2.1) first to upload file and extract the path
+2.2) second is to proceed with extracting the text from pdf
+For this path from the response of first api should be passed
+
+predominantly watch last 15-20 mins of today's (week 1 day2 langflow recording) this gives you clear picture on the assignment
+=============================
+
+Hi Everyone,
+For this weekend's session, please ensure that you are prepared with at least two AI Copilot accounts before the class begins.
+
+If you already have a paid subscription to any AI assistant, such as GitHub Copilot, Claude Pro, or any other equivalent AI tool, that is perfectly fine and can be used.
+Please make sure your accounts are created, accessible, and logged in before the session starts.
+Thank you, and see you all this weekend!
