@@ -10,3 +10,31 @@ For the home assignments and other tasks, use chat input and output.
 ===========================================================
 
 "Basic YmFidS5tYW5pY2thbUBpbmRzYWZyaS5jb206QVRBVFQzeEZmR0YwWkpielZiWUk1UkpFS01Vb1lZb0Vra293cFl1THpVRE0tSHJoWklvTWg4d3F0R3B5ZXFwYms0NXFQUUNHVDhKVWVfZ1ZNREM3SGktYXN0ejZpRlBNMlYwMktoMGJ1RWZoYkRoa09ISWpqNmd4X3FsLUxrbThFQXg2bVQzUExab05GQVFTZndCampjOU5RdlIwVXNnMDZHRG0xV3pPWHpaZXpNSXdZOHR0eWJZPUY4MkVCNkFE
+=========================================================
+
+Start with POC --Langflow,n8n
+Enterprise Grade --Agent framework
+Langchain,llama index ,Google ADK
+Observability and Monitoring,Evaluation
+Langsmith (Commericial)
+Langfuse
+60%
+80% 
+beleieving LLM
+
+Test coverage
+Automation Coverage
+
+Metrics --Evaluate LLM
+Deepeval
+
+
+React front end + node.js as Backend
+---------How much time it will take to build a POC
+6 to 8 hours to build a POC
+What if am going build a testcase generator as a chat Agent 45 mins to 1 hour to build a POC
+
+Testcase Generator as a chat Agent
+
+Components
+chatinput-Prompttemplate-LLM Provider(Groq)-Chat output
