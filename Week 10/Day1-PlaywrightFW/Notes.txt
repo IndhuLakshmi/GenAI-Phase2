@@ -1,0 +1,36 @@
+https://github.com/microsoft/playwright-mcp
+
+Classroom Activity - 1
+***********************
+1. Go to extensions
+2. Type @mcp Playwright
+3. Intall the plugin from Official(Microsoft)
+4.MCP Servers - Installed -- Playwright
+5. Click on Settings icon -- Start Server(Confirm the console for 24 tools are running)
+6. Open copilot - Agent Mode
+7.  go to https://leaftaps.com/opentaps/
+    login with credentials: democsr/crmsfa
+    click on logout and close browser
+8. Confirm the test cases is executed. 
+9. Explore the Json
+===========================================
+Classroom session 2:
+********************
+1. Open the terminal, and run below commands: 
+
+npm install -D @playwright/test
+npx playwright install
+npx playwright init-agents --loop=vscode
+
+2. you can see "playwright-test" extension
+3. Click on setitngs and start server(89 tools)
+4. Take any sample website like amazon search or google search
+5. Using planner agent genrate test scenarios.md file using planner agent in in copilot 
+6. Try Atlear for one test sceanrio(context md file), generate script using Generator agent in copilot
+7. Fail the test case(change the locator)(Keep the failed test open)-- use healer in copilot and fix it
+===========================
+# Homework Assignment
+
+*Task:* Update the Playwright Generator Agent prompt to generate test scripts according to the given framework format.
+
+Please find the Playwright framework provided below. The agent prompt should be updated to ensure that the generated test scripts strictly follow the structure, conventions, and standards defined in the framework.
