@@ -42,6 +42,7 @@ Query1: Get me two data for newly creating leads in leaftaps
 Query2: I am about to delete two records in leaf taps, Give me two led-id alone
 
 
+=====
 
 
-
+In step no 4, there is a small correction and the corrected step is: 4. click settings icon from playwright MCP --Show Configuration(JSON)
