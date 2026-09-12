@@ -1,0 +1,47 @@
+Steps to set testdata MCP:
+
+1. unzip the folder and import into VS code
+
+2. npm install
+
+3. Open mcp extension from vs code extension
+
+4. click settings icon --Show Configuration(JSON)
+
+5. under servers, add the below configuration json: 
+
+"testdata-mcp-server": {
+			"type": "stdio",
+			"name": "testdata-mcp-server",
+			"version": "1.0.0",
+			"description": "MCP server for QA test data",
+			"command": "node",
+			"args": [
+				"c:\\Gen AI\\My Mentoring\\Test data MCP\\test-data-mcp-server\\test-data-mcp-server\\dist\\index.js"
+			],
+			"env": {
+				"DB_HOST": "18.61.161.106",
+				"DB_PORT": "3306",
+				"DB_NAME": "opentaps_prod",
+				"DB_USER": "sandbox",
+				"DB_PASSWORD": "Leaf9823DT23132"
+			}
+		}
+
+
+Note :Replace your local path of dist\\index.js" in args 
+
+
+once you added ,you can go back to vs code extension and you will see testdata-mcp-server and start the server and perform below actions
+
+1.Get the latest prospect
+2.Create test data
+
+Query1: Get me two data for newly creating leads in leaftaps
+
+Query2: I am about to delete two records in leaf taps, Give me two led-id alone
+
+
+
+
+
